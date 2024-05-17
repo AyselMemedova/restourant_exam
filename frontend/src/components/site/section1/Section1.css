@@ -1,0 +1,30 @@
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-image: url("https://preview.colorlib.com/theme/tasty/images/bg_3.jpg.webp");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+min-height: 700px;
+/* position: relative; */
+
+h1{
+        font-family: "Indie Flower", cursive;
+    font-size: 72px;
+    color: #fff;
+    line-height: 1.2;
+    font-weight: 400;
+    }
+
+    button{
+        background: transparent;
+        color: white;
+        border: 3px solid white;
+        width: 190px;
+        height: 60px;
+    }
+}
+
